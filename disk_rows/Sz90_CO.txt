@@ -1,0 +1,22 @@
+Name:     Sz90
+Region:     Lupus
+File:     /Users/calebpainter/Downloads/DECO/fits_files/Lupus/Sz90_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (10, 180, 10, 180)
+X-pos:     241.791868
+Y-pos:     -39.184402
+X-offset:     0.15
+Y-offset:     0.383
+Literature PA:     8.837
+Eddy PA:     128.47
+Literature Mass [M]:     0.73
+Eddy Mass [M]:     1.27
+DECO Dict vsys [km/s]:     5.24
+Eddy vlsr [m/s]:     4.95
+Literature Inc:     52.37
+Eddy Inc:     --
+Literature Distance [Mpc]:     160.37
+Eddy rmin, rmax ["]:     (0.0, 2.0)
+Eddy params (nwalkers, nburn, nsteps):     (32, 800, 500)
+Velocity Mask:     [0.8, 0.4, 135]
+Notes:     Good Disk

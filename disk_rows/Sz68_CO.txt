@@ -1,0 +1,22 @@
+Name:     Sz68
+Region:     Lupus
+File:     /Users/calebpainter/Downloads/DECO/fits_files/Lupus/Sz68_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (50, 105, 150, 200)
+X-pos:     236.303488
+Y-pos:     -34.29199
+X-offset:     0.182
+Y-offset:     0.41
+Literature PA:     0.288
+Eddy PA:     165.08
+Literature Mass [M]:     1.32
+Eddy Mass [M]:     2.37
+DECO Dict vsys [km/s]:     2.6
+Eddy vlsr [m/s]:     4.98
+Literature Inc:     34.01
+Eddy Inc:     --
+Literature Distance [Mpc]:     158.0
+Eddy rmin, rmax ["]:     (0.2, 2.0)
+Eddy params (nwalkers, nburn, nsteps):     (32, 800, 500)
+Velocity Mask:     [0.5, 1.2, 200]
+Notes:     Good Disk
