@@ -1,0 +1,23 @@
+Name:     HP_Tau
+Region:     Taurus
+File:     /Users/calebpainter/Downloads/DECO/fits_files/Taurus/HP_Tau_HCN_hf1_265.885GHz.image.fits
+Emmision Line:     Tau
+Channels:     (0, 70, 0, 70)
+X-pos:     68.969988
+Y-pos:     22.906346
+X-offset:     0.08
+Y-offset:     0.06
+Literature PA:     56.5
+Eddy PA:     240.05
+Literature Mass [M]:     -106.15
+Eddy Mass [M]:     -106.19
+DECO Dict vsys [km/s]:     5.0
+Eddy vlsr [m/s]:     4.5
+Literature Inc:     18.3
+Eddy Inc:     --
+Literature Distance [Mpc]:     141.0
+Eddy rmin, rmax ["]:     (0.1, 2)
+Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
+Velocity Mask:     None
+Background Velocity Removal:     None
+Notes:     MCMC FAILS

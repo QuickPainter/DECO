@@ -1,0 +1,23 @@
+Name:     J162616.8-242223
+Region:     ROph
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph/J162616.8-242223_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (0, 100, 140, 200)
+X-pos:     246.570167
+Y-pos:     -24.373279
+X-offset:     0.71
+Y-offset:     -0.175
+Literature PA:     --
+Eddy PA:     30.01
+Literature Mass [M]:     0.54
+Eddy Mass [M]:     --
+DECO Dict vsys [km/s]:     4.5
+Eddy vlsr [m/s]:     2.0
+Literature Inc:     --
+Eddy Inc:     19.99
+Literature Distance [Mpc]:     137.42
+Eddy rmin, rmax ["]:     (0, 0.8)
+Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
+Velocity Mask:     None
+Background Velocity Removal:     None
+Notes:     MCMC FAILS, too many clouds

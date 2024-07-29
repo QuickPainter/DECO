@@ -1,0 +1,23 @@
+Name:     J11092379-7623207
+Region:     ChamI
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ChamI/J11092379-7623207_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (50, 80, 100, 150)
+X-pos:     167.348521
+Y-pos:     -76.389129
+X-offset:     -0.01
+Y-offset:     -0.1
+Literature PA:     55.18
+Eddy PA:     359.89
+Literature Mass [M]:     0.496
+Eddy Mass [M]:     0.21
+DECO Dict vsys [km/s]:     5.3
+Eddy vlsr [m/s]:     6.01
+Literature Inc:     15.63
+Eddy Inc:     --
+Literature Distance [Mpc]:     191.12
+Eddy rmin, rmax ["]:     (0.1, 1)
+Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
+Velocity Mask:     None
+Background Velocity Removal:     None
+Notes:     MCMC FAILS, hard to get red/blue parts of cloud

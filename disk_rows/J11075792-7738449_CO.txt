@@ -1,0 +1,23 @@
+Name:     J11075792-7738449
+Region:     ChamI
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ChamI/J11075792-7738449_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (0, 50, 150, 200)
+X-pos:     166.990665
+Y-pos:     -77.645823
+X-offset:     0.02
+Y-offset:     -0.09
+Literature PA:     --
+Eddy PA:     197.79
+Literature Mass [M]:     0.82
+Eddy Mass [M]:     --
+DECO Dict vsys [km/s]:     3.7
+Eddy vlsr [m/s]:     3.81
+Literature Inc:     --
+Eddy Inc:     54.55
+Literature Distance [Mpc]:     191.0
+Eddy rmin, rmax ["]:     (0.4, 1.5)
+Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
+Velocity Mask:     None
+Background Velocity Removal:     None
+Notes:     MCMC GOOD
