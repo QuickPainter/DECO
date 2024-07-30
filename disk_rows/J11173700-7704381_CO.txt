@@ -1,22 +1,22 @@
-Name:     J11173700-7704381
-Region:     ChamI
-File:     /Users/calebpainter/Downloads/DECO/fits_files/ChamI/J11173700-7704381_CO_230.538GHz.image.fits
+Name:     J162618.9-242820
+Region:     ROph
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph/J162618.9-242820_CO_230.538GHz.image.fits
 Emmision Line:     CO
-Channels:     (0, 200, 150, 200)
-X-pos:     169.403531
-Y-pos:     -77.077268
-X-offset:     -0.02
-Y-offset:     -0.02
-Literature PA:     130.76
-Eddy PA:     221.56
-Literature Mass [M]:     0.52
-Eddy Mass [M]:     0.57
-DECO Dict vsys [km/s]:     3.6
-Eddy vlsr [m/s]:     3.76
-Literature Inc:     43.77
-Eddy Inc:     --
-Literature Distance [Mpc]:     188.88
-Eddy rmin, rmax ["]:     (0.2, 1)
+Channels:     (30, 70, 150, 200)
+X-pos:     246.578603
+Y-pos:     -24.472317
+X-offset:     -0.32
+Y-offset:     0.3
+Literature PA:     29.7
+Eddy PA:     169.01
+Literature Mass [M]:     0.5875
+Eddy Mass [M]:     --
+DECO Dict vsys [km/s]:     3.3
+Eddy vlsr [m/s]:     1.98
+Literature Inc:     0
+Eddy Inc:     -49.7
+Literature Distance [Mpc]:     137.53
+Eddy rmin, rmax ["]:     (0.2, 1.5)
 Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
 Velocity Mask:     None
 Background Velocity Removal:     None
