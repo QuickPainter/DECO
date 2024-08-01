@@ -1,0 +1,23 @@
+Name:     J162713.7-241817
+Region:     ROph
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph/13CO/J162713.7-241817_13CO_220.399GHz.image.fits
+Emmision Line:     13CO
+Channels:     (0, 100, 0, 100)
+X-pos:     246.80716
+Y-pos:     -24.304864
+X-offset:     0.42
+Y-offset:     0.12
+Literature PA:     --
+Eddy PA:     171.74
+Literature Mass [M]:     0.57
+Eddy Mass [M]:     --
+DECO Dict vsys [km/s]:     3.4
+Eddy vlsr [m/s]:     5.25
+Literature Inc:     --
+Eddy Inc:     -41.33
+Literature Distance [Mpc]:     137.2
+Eddy rmin, rmax ["]:     (0, 1.5)
+Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
+Velocity Mask:     None
+Background Velocity Removal:     None
+Notes:     MCMC FAILS, no disk signature

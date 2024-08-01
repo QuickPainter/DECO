@@ -1,23 +1,23 @@
 Name:     J162733.1-244115
 Region:     ROph
-File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph/J162733.1-244115_CO_230.538GHz.image.fits
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph//J162733.1-244115_CO_230.538GHz.image.fits
 Emmision Line:     CO
 Channels:     (0, 67, 140, 200)
 X-pos:     246.887915
 Y-pos:     -24.687744
-X-offset:     0.195
-Y-offset:     -0.282
+X-offset:     0.02
+Y-offset:     0.02
 Literature PA:     --
-Eddy PA:     210.88
+Eddy PA:     211.76
 Literature Mass [M]:     0.875
 Eddy Mass [M]:     --
 DECO Dict vsys [km/s]:     3.6
-Eddy vlsr [m/s]:     5.71
+Eddy vlsr [m/s]:     5.42
 Literature Inc:     --
-Eddy Inc:     52.29
+Eddy Inc:     54.75
 Literature Distance [Mpc]:     136.55
-Eddy rmin, rmax ["]:     (0.1, 0.8)
+Eddy rmin, rmax ["]:     (None, None)
 Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
 Velocity Mask:     None
 Background Velocity Removal:     None
-Notes:     Decent Fit
+Notes:     MCMC GOOD, FIT POOR

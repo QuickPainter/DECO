@@ -1,23 +1,23 @@
 Name:     J162536.7-241542
 Region:     ROph
-File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph/J162536.7-241542_CO_230.538GHz.image.fits
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph//J162536.7-241542_CO_230.538GHz.image.fits
 Emmision Line:     CO
 Channels:     (0, 100, 130, 200)
 X-pos:     246.403027
 Y-pos:     -24.261993
-X-offset:     0.48
-Y-offset:     -0.54
+X-offset:     0.0
+Y-offset:     -0.0
 Literature PA:     14.2
-Eddy PA:     129.62
+Eddy PA:     143.92
 Literature Mass [M]:     0.84
-Eddy Mass [M]:     0.54
+Eddy Mass [M]:     0.79
 DECO Dict vsys [km/s]:     2.2
-Eddy vlsr [m/s]:     4.2
+Eddy vlsr [m/s]:     3.93
 Literature Inc:     74.39
 Eddy Inc:     --
 Literature Distance [Mpc]:     139.0
-Eddy rmin, rmax ["]:     (None, None)
+Eddy rmin, rmax ["]:     (0.2, 3)
 Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
-Velocity Mask:     [0.25, 0.5, 230]
+Velocity Mask:     [0.5, 0.3, -40]
 Background Velocity Removal:     None
-Notes:     MCMC GOOD, center had to be reset to converge
+Notes:     MCMC GOOD

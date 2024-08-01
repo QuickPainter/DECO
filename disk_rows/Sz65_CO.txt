@@ -1,0 +1,23 @@
+Name:     Sz65
+Region:     Lupus
+File:     /Users/calebpainter/Downloads/DECO/fits_files/Lupus//Sz65_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (0, 200, 0, 200)
+X-pos:     234.865596
+Y-pos:     -34.771591
+X-offset:     0.0
+Y-offset:     -0.0
+Literature PA:     105.038
+Eddy PA:     286.26
+Literature Mass [M]:     0.61
+Eddy Mass [M]:     0.89
+DECO Dict vsys [km/s]:     4.44
+Eddy vlsr [m/s]:     4.55
+Literature Inc:     56.11
+Eddy Inc:     --
+Literature Distance [Mpc]:     153.47
+Eddy rmin, rmax ["]:     (None, None)
+Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
+Velocity Mask:     [1.7, 0.9, -10]
+Background Velocity Removal:     None
+Notes:     MCMC GOOD

@@ -1,0 +1,23 @@
+Name:     J16083070-3828268
+Region:     Lupus
+File:     /Users/calebpainter/Downloads/DECO/fits_files/Lupus//J16083070-3828268_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (0, 200, 0, 200)
+X-pos:     242.127825
+Y-pos:     -38.474291
+X-offset:     0.0
+Y-offset:     -0.01
+Literature PA:     107.501
+Eddy PA:     107.86
+Literature Mass [M]:     1.27
+Eddy Mass [M]:     1.48
+DECO Dict vsys [km/s]:     5.29
+Eddy vlsr [m/s]:     5.16
+Literature Inc:     72.76
+Eddy Inc:     --
+Literature Distance [Mpc]:     158.0
+Eddy rmin, rmax ["]:     (None, None)
+Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
+Velocity Mask:     [2.5, 1.4, -20]
+Background Velocity Removal:     None
+Notes:     MCMC GOOD

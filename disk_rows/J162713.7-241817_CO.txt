@@ -1,23 +1,23 @@
 Name:     J162713.7-241817
 Region:     ROph
-File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph/J162713.7-241817_CO_230.538GHz.image.fits
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph//J162713.7-241817_CO_230.538GHz.image.fits
 Emmision Line:     CO
 Channels:     (0, 70, 140, 200)
 X-pos:     246.80716
 Y-pos:     -24.304864
-X-offset:     0.42
-Y-offset:     0.12
+X-offset:     -0.0
+Y-offset:     0.0
 Literature PA:     --
-Eddy PA:     324.37
+Eddy PA:     205.6
 Literature Mass [M]:     0.57
 Eddy Mass [M]:     --
 DECO Dict vsys [km/s]:     3.4
-Eddy vlsr [m/s]:     1.27
+Eddy vlsr [m/s]:     0.36
 Literature Inc:     --
-Eddy Inc:     76.92
+Eddy Inc:     -13.85
 Literature Distance [Mpc]:     137.2
-Eddy rmin, rmax ["]:     (0, 0.6)
+Eddy rmin, rmax ["]:     (None, None)
 Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
-Velocity Mask:     None
+Velocity Mask:     [0.5, 0.3, 40]
 Background Velocity Removal:     None
-Notes:     MCMC FAILS, cloud hard to resolve
+Notes:     MCMC FAILS, DISK NOT CLEAR

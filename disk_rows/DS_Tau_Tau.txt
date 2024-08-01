@@ -1,23 +1,23 @@
-Name:     DS_Tau
-Region:     Taurus
-File:     /Users/calebpainter/Downloads/DECO/fits_files/Taurus/DS_Tau_HCN_hf1_265.885GHz.image.fits
-Emmision Line:     Tau
-Channels:     (0, 140, 0, 140)
-X-pos:     71.952524
-Y-pos:     29.419621
-X-offset:     0.09
-Y-offset:     -0.26
-Literature PA:     63.0
-Eddy PA:     339.76
-Literature Mass [M]:     0.497
-Eddy Mass [M]:     0.78
-DECO Dict vsys [km/s]:     5.7
-Eddy vlsr [m/s]:     4.52
-Literature Inc:     70.0
-Eddy Inc:     --
-Literature Distance [Mpc]:     158.35
-Eddy rmin, rmax ["]:     (0.1, 1)
+Name:     J162618.9-242820
+Region:     ROph
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph/J162618.9-242820_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (30, 70, 150, 200)
+X-pos:     246.578603
+Y-pos:     -24.472317
+X-offset:     -0.29
+Y-offset:     0.3
+Literature PA:     29.7
+Eddy PA:     169.52
+Literature Mass [M]:     0.5875
+Eddy Mass [M]:     --
+DECO Dict vsys [km/s]:     3.3
+Eddy vlsr [m/s]:     2.04
+Literature Inc:     0
+Eddy Inc:     50.22
+Literature Distance [Mpc]:     137.53
+Eddy rmin, rmax ["]:     (0, 1.5)
 Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
-Velocity Mask:     [0.5, 1, 20]
+Velocity Mask:     None
 Background Velocity Removal:     None
-Notes:     MCMC GOOD, disk resolution mediocre
+Notes:     MCMC GOOD

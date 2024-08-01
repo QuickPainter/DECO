@@ -1,23 +1,23 @@
 Name:     J162755.6-242618
 Region:     ROph
-File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph/J162755.6-242618_CO_230.538GHz.image.fits
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph//J162755.6-242618_CO_230.538GHz.image.fits
 Emmision Line:     CO
 Channels:     (0, 200, 100, 200)
 X-pos:     246.981533
 Y-pos:     -24.438517
-X-offset:     -0.23
-Y-offset:     -0.05
+X-offset:     0.01
+Y-offset:     0.01
 Literature PA:     --
-Eddy PA:     351.32
+Eddy PA:     354.57
 Literature Mass [M]:     0.368
 Eddy Mass [M]:     --
 DECO Dict vsys [km/s]:     3.2
-Eddy vlsr [m/s]:     3.01
+Eddy vlsr [m/s]:     3.03
 Literature Inc:     --
-Eddy Inc:     19.92
+Eddy Inc:     16.21
 Literature Distance [Mpc]:     131.65
-Eddy rmin, rmax ["]:     (0, 0.6)
+Eddy rmin, rmax ["]:     (None, None)
 Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
-Velocity Mask:     None
+Velocity Mask:     [0.5, 0.5, 40]
 Background Velocity Removal:     None
-Notes:     MCMC FAILS, cloud hard to resolve
+Notes:     MCMC GOOD

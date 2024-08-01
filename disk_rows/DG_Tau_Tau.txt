@@ -1,23 +1,23 @@
-Name:     DG_Tau
-Region:     Taurus
-File:     /Users/calebpainter/Downloads/DECO/fits_files/Taurus/DG_Tau_HCN_hf1_265.885GHz.image.fits
-Emmision Line:     Tau
-Channels:     (20, 70, 20, 70)
-X-pos:     66.769591
-Y-pos:     26.10433
-X-offset:     -0.08
-Y-offset:     -0.25
-Literature PA:     135.4
-Eddy PA:     300.61
-Literature Mass [M]:     0.71
-Eddy Mass [M]:     0.58
-DECO Dict vsys [km/s]:     6.24
-Eddy vlsr [m/s]:     5.01
-Literature Inc:     37.0
-Eddy Inc:     --
-Literature Distance [Mpc]:     141.0
-Eddy rmin, rmax ["]:     (0.1, 2)
+Name:     J162618.9-242820
+Region:     ROph
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph/J162618.9-242820_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (30, 70, 150, 200)
+X-pos:     246.578603
+Y-pos:     -24.472317
+X-offset:     -0.29
+Y-offset:     0.3
+Literature PA:     29.7
+Eddy PA:     169.52
+Literature Mass [M]:     0.5875
+Eddy Mass [M]:     --
+DECO Dict vsys [km/s]:     3.3
+Eddy vlsr [m/s]:     2.04
+Literature Inc:     0
+Eddy Inc:     50.22
+Literature Distance [Mpc]:     137.53
+Eddy rmin, rmax ["]:     (0, 1.5)
 Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
 Velocity Mask:     None
 Background Velocity Removal:     None
-Notes:     MCMC GOOD, had to reforce center
+Notes:     MCMC GOOD

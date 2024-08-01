@@ -1,18 +1,18 @@
 Name:     J162854.1-244744
 Region:     ROph
-File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph/J162854.1-244744_CO_230.538GHz.image.fits
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph//J162854.1-244744_CO_230.538GHz.image.fits
 Emmision Line:     CO
 Channels:     (0, 70, 100, 200)
 X-pos:     247.225283
 Y-pos:     -24.795803
-X-offset:     -0.27
-Y-offset:     -0.3
+X-offset:     -0.03
+Y-offset:     -0.0
 Literature PA:     122.3
-Eddy PA:     179.89
+Eddy PA:     178.18
 Literature Mass [M]:     0.396
-Eddy Mass [M]:     0.56
+Eddy Mass [M]:     0.62
 DECO Dict vsys [km/s]:     4.8
-Eddy vlsr [m/s]:     4.33
+Eddy vlsr [m/s]:     4.32
 Literature Inc:     49.87
 Eddy Inc:     --
 Literature Distance [Mpc]:     136.46

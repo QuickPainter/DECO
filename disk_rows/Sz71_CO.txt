@@ -1,0 +1,23 @@
+Name:     Sz71
+Region:     Lupus
+File:     /Users/calebpainter/Downloads/DECO/fits_files/Lupus//Sz71_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (0, 200, 0, 200)
+X-pos:     236.686246
+Y-pos:     -34.51007
+X-offset:     0.02
+Y-offset:     -0.02
+Literature PA:     38.682
+Eddy PA:     37.51
+Literature Mass [M]:     0.414
+Eddy Mass [M]:     0.43
+DECO Dict vsys [km/s]:     3.62
+Eddy vlsr [m/s]:     3.59
+Literature Inc:     38.88
+Eddy Inc:     --
+Literature Distance [Mpc]:     155.2
+Eddy rmin, rmax ["]:     (None, None)
+Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
+Velocity Mask:     None
+Background Velocity Removal:     None
+Notes:     MCMC GOOD

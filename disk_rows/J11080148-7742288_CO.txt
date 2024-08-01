@@ -1,22 +1,22 @@
 Name:     J11080148-7742288
 Region:     ChamI
-File:     /Users/calebpainter/Downloads/DECO/fits_files/ChamI/J11080148-7742288_CO_230.538GHz.image.fits
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ChamI//J11080148-7742288_CO_230.538GHz.image.fits
 Emmision Line:     CO
 Channels:     (0, 120, 150, 200)
 X-pos:     167.005759
 Y-pos:     -77.707936
-X-offset:     -0.02
-Y-offset:     0.28
+X-offset:     0.02
+Y-offset:     -0.0
 Literature PA:     --
-Eddy PA:     78.65
+Eddy PA:     69.27
 Literature Mass [M]:     0.705
 Eddy Mass [M]:     --
 DECO Dict vsys [km/s]:     2.0
-Eddy vlsr [m/s]:     2.3
+Eddy vlsr [m/s]:     2.19
 Literature Inc:     --
-Eddy Inc:     -30.21
+Eddy Inc:     22.31
 Literature Distance [Mpc]:     191.0
-Eddy rmin, rmax ["]:     (0.1, 0.8)
+Eddy rmin, rmax ["]:     (None, None)
 Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
 Velocity Mask:     None
 Background Velocity Removal:     None

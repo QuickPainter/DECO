@@ -1,0 +1,23 @@
+Name:     Sz98
+Region:     Lupus
+File:     /Users/calebpainter/Downloads/DECO/fits_files/Lupus//Sz98_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (0, 200, 0, 200)
+X-pos:     242.093632
+Y-pos:     -39.079722
+X-offset:     0.02
+Y-offset:     -0.0
+Literature PA:     110.838
+Eddy PA:     109.64
+Literature Mass [M]:     0.55
+Eddy Mass [M]:     0.79
+DECO Dict vsys [km/s]:     3.05
+Eddy vlsr [m/s]:     3.01
+Literature Inc:     47.43
+Eddy Inc:     --
+Literature Distance [Mpc]:     156.27
+Eddy rmin, rmax ["]:     (None, None)
+Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
+Velocity Mask:     [2.1, 1.7, -10]
+Background Velocity Removal:     None
+Notes:     MCMC GOOD

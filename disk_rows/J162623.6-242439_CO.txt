@@ -1,0 +1,23 @@
+Name:     J162623.6-242439
+Region:     ROph
+File:     /Users/calebpainter/Downloads/DECO/fits_files/ROph//J162623.6-242439_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (0, 70, 130, 200)
+X-pos:     246.598229
+Y-pos:     -24.411161
+X-offset:     -0.18
+Y-offset:     -0.58
+Literature PA:     48.3
+Eddy PA:     52.41
+Literature Mass [M]:     0.69
+Eddy Mass [M]:     0.15
+DECO Dict vsys [km/s]:     2.9
+Eddy vlsr [m/s]:     1.03
+Literature Inc:     71.17
+Eddy Inc:     --
+Literature Distance [Mpc]:     139.0
+Eddy rmin, rmax ["]:     (None, None)
+Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
+Velocity Mask:     None
+Background Velocity Removal:     6
+Notes:     MCMC GOOD

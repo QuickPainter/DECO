@@ -1,22 +1,23 @@
 Name:     Sz96
 Region:     Lupus
-File:     /Users/calebpainter/Downloads/DECO/fits_files/Lupus/Sz96_CO_230.538GHz.image.fits
+File:     /Users/calebpainter/Downloads/DECO/fits_files/Lupus//Sz96_CO_230.538GHz.image.fits
 Emmision Line:     CO
 Channels:     (10, 180, 10, 180)
 X-pos:     242.05253
 Y-pos:     -39.142777
-X-offset:     0.146
-Y-offset:     0.378
+X-offset:     0.03
+Y-offset:     0.02
 Literature PA:     91.498
-Eddy PA:     27.95
+Eddy PA:     36.26
 Literature Mass [M]:     0.463
-Eddy Mass [M]:     1.2
+Eddy Mass [M]:     0.6
 DECO Dict vsys [km/s]:     4.7
-Eddy vlsr [m/s]:     1.24
+Eddy vlsr [m/s]:     0.9
 Literature Inc:     49.0
 Eddy Inc:     --
 Literature Distance [Mpc]:     155.97
-Eddy rmin, rmax ["]:     (0.05, 1.7)
-Eddy params (nwalkers, nburn, nsteps):     (32, 800, 500)
+Eddy rmin, rmax ["]:     (0, 1.5)
+Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
 Velocity Mask:     None
-Notes:     Good Disk
+Background Velocity Removal:     None
+Notes:     MCMC GOOD

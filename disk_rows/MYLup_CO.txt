@@ -1,0 +1,23 @@
+Name:     MYLup
+Region:     Lupus
+File:     /Users/calebpainter/Downloads/DECO/fits_files/Lupus//MYLup_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (0, 200, 0, 200)
+X-pos:     240.185383
+Y-pos:     -41.925405
+X-offset:     -0.0
+Y-offset:     -0.03
+Literature PA:     58.463
+Eddy PA:     227.38
+Literature Mass [M]:     1.19
+Eddy Mass [M]:     1.41
+DECO Dict vsys [km/s]:     4.71
+Eddy vlsr [m/s]:     4.73
+Literature Inc:     73.82
+Eddy Inc:     --
+Literature Distance [Mpc]:     158.0
+Eddy rmin, rmax ["]:     (None, None)
+Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
+Velocity Mask:     [2.1, 1.7, -10]
+Background Velocity Removal:     None
+Notes:     MCMC GOOD

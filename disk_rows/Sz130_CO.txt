@@ -1,0 +1,23 @@
+Name:     Sz130
+Region:     Lupus
+File:     /Users/calebpainter/Downloads/DECO/fits_files/Lupus//Sz130_CO_230.538GHz.image.fits
+Emmision Line:     CO
+Channels:     (0, 200, 0, 200)
+X-pos:     240.129216
+Y-pos:     -41.72709
+X-offset:     0.02
+Y-offset:     -0.02
+Literature PA:     130.22
+Eddy PA:     331.62
+Literature Mass [M]:     0.394
+Eddy Mass [M]:     0.36
+DECO Dict vsys [km/s]:     4.0
+Eddy vlsr [m/s]:     4.12
+Literature Inc:     54.74
+Eddy Inc:     --
+Literature Distance [Mpc]:     159.18
+Eddy rmin, rmax ["]:     (None, None)
+Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
+Velocity Mask:     None
+Background Velocity Removal:     None
+Notes:     MCMC GOOD

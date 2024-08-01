@@ -1,23 +1,23 @@
 Name:     Sz95
 Region:     Lupus
-File:     /Users/calebpainter/Downloads/DECO/fits_files/Lupus/Sz95_CO_230.538GHz.image.fits
+File:     /Users/calebpainter/Downloads/DECO/fits_files/Lupus//Sz95_CO_230.538GHz.image.fits
 Emmision Line:     CO
-Channels:     (0, 200, 130, 200)
+Channels:     (0, 200, 0, 200)
 X-pos:     241.967867
 Y-pos:     -38.968504
-X-offset:     0.24
-Y-offset:     0.37
+X-offset:     0.01
+Y-offset:     0.01
 Literature PA:     92.463
-Eddy PA:     182.78
+Eddy PA:     177.3
 Literature Mass [M]:     0.291
-Eddy Mass [M]:     1.08
+Eddy Mass [M]:     0.01
 DECO Dict vsys [km/s]:     3.1
-Eddy vlsr [m/s]:     4.61
+Eddy vlsr [m/s]:     4.68
 Literature Inc:     53.13
 Eddy Inc:     --
 Literature Distance [Mpc]:     160.47
-Eddy rmin, rmax ["]:     (0.1, 1)
+Eddy rmin, rmax ["]:     (0, 1.5)
 Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
-Velocity Mask:     None
+Velocity Mask:     [0.3, 0.6, -5]
 Background Velocity Removal:     None
-Notes:     MCMC GOOD
+Notes:     MCMC GOOD, bad fit because center is off from blue/red of gas
