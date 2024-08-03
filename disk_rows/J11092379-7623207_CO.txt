@@ -8,9 +8,9 @@ Y-pos:     -76.389129
 X-offset:     -0.01
 Y-offset:     0.02
 Literature PA:     55.18
-Eddy PA:     208.31
+Eddy PA:     208.41
 Literature Mass [M]:     0.496
-Eddy Mass [M]:     0.47
+Eddy Mass [M]:     0.46
 DECO Dict vsys [km/s]:     5.3
 Eddy vlsr [m/s]:     5.42
 Literature Inc:     15.63
@@ -18,6 +18,6 @@ Eddy Inc:     --
 Literature Distance [Mpc]:     191.12
 Eddy rmin, rmax ["]:     (0.2, 2)
 Eddy params (nwalkers, nburn, nsteps):     (10, 800, 500)
-Velocity Mask:     [1, 2, -70]
+Velocity Mask:     [1, 1.5, -70]
 Background Velocity Removal:     None
 Notes:     MCMC GOOD
