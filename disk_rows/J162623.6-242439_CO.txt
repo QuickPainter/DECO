@@ -5,8 +5,8 @@ Emmision Line:     CO
 Channels:     (0, 70, 130, 200)
 X-pos:     246.598229
 Y-pos:     -24.411161
-X-offset:     -0.18
-Y-offset:     -0.58
+X-offset:     -0.0
+Y-offset:     0.02
 Literature PA:     48.3
 Eddy PA:     52.41
 Literature Mass [M]:     0.69
